@@ -1,0 +1,23 @@
+﻿.container {
+    text-align: right;
+}
+
+.myButton {
+    background-color: rgba(223,194,160,0.19);
+    border-radius: 40px;
+    font-size: medium;
+    height: 50px;
+    font-family: cursive;
+    font-weight: bold;
+    border: 2px outset;
+    background: linear-gradient(to top,#fe000082, #ffeb5c26, #dc2e2e61);
+}
+
+.myButton:hover {
+   letter-spacing: 2px;
+   color: crimson;
+}
+
+.myButton:focus {
+   outline: none;
+}
